@@ -9,8 +9,8 @@ with open(filename, mode='r', newline='') as csvfile:
     csvreader = csv.reader(csvfile)
     
     # Get the header (first row)
-    header = next(csvreader)
-    print(f'Header: {header}')
+    #header = next(csvreader)
+    #print(f'Header: {header}')
     
     # Read the remaining rows
     for row in csvreader:
