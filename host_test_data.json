@@ -1,0 +1,10 @@
+{"EventID": 4769, "UserName": "User624729", "ServiceName": "Comp883934$", "DomainName": "Domain002", "Status": "0x0", "Source": "Comp309534", "Computer": "ActiveDirectory", "Time": 2}
+{"EventID": 4776, "UserName": "Scanner", "DomainName": "Domain002", "Status": "0x0", "Computer": "ActiveDirectory", "AuthenticationPackage": "MICROSOFT_AUTHENTICATION_PACKAGE_V1_0", "Time": 2}
+{"EventID": 4672, "UserName": "ActiveDirectory$", "LogonID": "0x2e66398d", "DomainName": "Domain002", "Computer": "ActiveDirectory", "Time": 2}
+{"EventID": 4624, "UserName": "ActiveDirectory$", "LogonID": "0x2e66398d", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "ActiveDirectory", "AuthenticationPackage": "Kerberos", "Time": 2, "LogonType": 3}
+{"EventID": 4634, "UserName": "ActiveDirectory$", "LogonID": "0x2e66398d", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "ActiveDirectory", "Time": 2, "LogonType": 3}
+{"EventID": 4624, "UserName": "User380010", "LogonID": "0x9f17415", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "Comp966305", "AuthenticationPackage": "Kerberos", "Time": 2, "LogonType": 3}
+{"EventID": 4634, "UserName": "User380010", "LogonID": "0x9f17415", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "Comp966305", "Time": 2, "LogonType": 3}
+{"EventID": 4624, "UserName": "User096622", "LogonID": "0x9f17637", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "Comp966305", "AuthenticationPackage": "Kerberos", "Time": 2, "LogonType": 3}
+{"EventID": 4634, "UserName": "User096622", "LogonID": "0x9f17637", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "Comp966305", "Time": 2, "LogonType": 3}
+{"EventID": 4624, "UserName": "User233472", "LogonID": "0x9f17fe4", "DomainName": "Domain002", "LogonTypeDescription": "Network", "Computer": "Comp966305", "AuthenticationPackage": "Kerberos", "Time": 2, "LogonType": 3}

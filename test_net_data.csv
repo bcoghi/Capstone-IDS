@@ -1,5 +1,3 @@
-Time,Duration,SrcDevice,DstDevice,DstPackets,SrcBytes,DstBytes
-v,i,c,e,",",D,s,t,P,a,c,k,e,t,s,",",S,r,c,B,y,t,e,s,",",D,s,t,B,y,t,e,s
 5,14369,Comp492856,Mail,6,Port30344,443,227,214,32300,9844
 765,14431,Comp782574,Mail,6,Port28068,443,1637,3313,75302,1220077
 765,17056,Comp378125,Mail,6,Port28068,443,3848,4096,177008,1441295

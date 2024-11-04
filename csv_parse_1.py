@@ -1,7 +1,8 @@
 import csv
 
 # Specify the filename
-filename = 'UHND_Datasets\\netflow_day-21'
+filename = 'test_net_data.csv'
+filenameFull = 'UHND_Datasets\\netflow_day-21'
 dictList = []
 
 # Open the CSV file
@@ -13,9 +14,9 @@ with open(filename, mode='r+', newline='') as csvfile:
     csvreader = csv.DictReader(csvfile,fieldnames)
     
     #iterate over each row
-    for i, row in csvreader:
+    for row in csvreader:
         #add each row (in dictionary format) to the end of the list
         dictList.append(row)
         
     #print list for testing
-    #print(dictList)
+    print(dictList)

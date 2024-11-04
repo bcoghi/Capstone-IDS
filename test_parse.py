@@ -1,7 +1,7 @@
 import csv
 
 # Specify the filename
-filename = 'data.csv'
+filename = 'test_net_data.csv'
 data_list = []
 # Open the CSV file
 with open(filename, mode='r+', newline='') as csvfile:
