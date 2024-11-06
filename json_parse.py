@@ -1,6 +1,7 @@
 import json
 
 filename = 'host_test_data.json'
+day02 = 'wls_day-02/wls_day-02.json'
 dictList = []
 
 with open(filename, 'r') as input:
